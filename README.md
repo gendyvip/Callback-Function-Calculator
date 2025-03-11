@@ -1,2 +1,2 @@
-# Callback-Function-Calculator
+# CallbackFunction-Calculator
 Basic JS Course with ITI
